@@ -12,9 +12,9 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 
 global.owner = [
 ["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480"], 
-["5492266466080"], 
-["593968585383"], 
+["51907073027"], '𝙊𝙬𝙣𝙚𝙧] 💖🐈', true 
+["51954651506"], '𝙊𝙬𝙣𝙚d𝙧] 💖🐈', true
+["51980020058"], 
 ["5492266613038"],
 ["51948705559"],
 ["51982233590"],
@@ -122,7 +122,7 @@ global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "Richard-MD"
 global.yt = "https://youtube.com/@gatadios"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
 global.ig = "https://www.instagram.com/gata_dios"
